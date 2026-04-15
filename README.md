@@ -139,7 +139,6 @@ It highlights the importance of both attribution (who drives conversions) and pr
 ├── README.md
 ├── /data
 ├── /notebooks
-├── /models
 └── /dashboard
 ```
 
