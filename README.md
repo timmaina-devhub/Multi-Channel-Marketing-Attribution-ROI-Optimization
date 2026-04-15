@@ -147,4 +147,3 @@ It highlights the importance of both attribution (who drives conversions) and pr
 
 * Power BI dashboard for interactive visualization
 * Budget optimization simulator
-* Model comparison with Gradient Boosting (XGBoost / LightGBM)
