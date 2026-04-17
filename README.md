@@ -153,3 +153,7 @@ It highlights the importance of both attribution (who drives conversions) and pr
 
 ---
 ![Dashboard Preview](./customer-Journey.png)
+
+---
+![Dashboard Preview](./Spend-time-graphs.png)
+
