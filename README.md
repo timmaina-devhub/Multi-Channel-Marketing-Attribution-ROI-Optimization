@@ -150,4 +150,6 @@ It highlights the importance of both attribution (who drives conversions) and pr
 ## Dashboard Preview
 
 ![Dashboard Preview](./marketing-project.png)
+
+---
 ![Dashboard Preview](./customer-Journey.png)
