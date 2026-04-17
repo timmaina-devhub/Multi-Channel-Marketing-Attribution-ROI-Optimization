@@ -144,5 +144,10 @@ It highlights the importance of both attribution (who drives conversions) and pr
 
 ## Future Work
 
-* Power BI dashboard for interactive visualization
 * Budget optimization simulator
+
+---
+## Dashboard Preview
+
+![Dashboard Preview](./marketing-project.png)
+![Dashboard Preview](./customer-Journey.png)
